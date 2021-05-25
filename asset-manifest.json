@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itzhak12380/gh-react-trial.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/itzhak12380/gh-react-trial.git/static/js/main.06cbe1fe.chunk.js",
+    "main.js.map": "/itzhak12380/gh-react-trial.git/static/js/main.06cbe1fe.chunk.js.map",
+    "runtime-main.js": "/itzhak12380/gh-react-trial.git/static/js/runtime-main.0692a1f3.js",
+    "runtime-main.js.map": "/itzhak12380/gh-react-trial.git/static/js/runtime-main.0692a1f3.js.map",
+    "static/js/2.c5ad26d2.chunk.js": "/itzhak12380/gh-react-trial.git/static/js/2.c5ad26d2.chunk.js",
+    "static/js/2.c5ad26d2.chunk.js.map": "/itzhak12380/gh-react-trial.git/static/js/2.c5ad26d2.chunk.js.map",
+    "static/js/3.4808b84a.chunk.js": "/itzhak12380/gh-react-trial.git/static/js/3.4808b84a.chunk.js",
+    "static/js/3.4808b84a.chunk.js.map": "/itzhak12380/gh-react-trial.git/static/js/3.4808b84a.chunk.js.map",
+    "index.html": "/itzhak12380/gh-react-trial.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/itzhak12380/gh-react-trial.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c5ad26d2.chunk.js.LICENSE.txt": "/itzhak12380/gh-react-trial.git/static/js/2.c5ad26d2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/itzhak12380/gh-react-trial.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0692a1f3.js",
+    "static/js/2.c5ad26d2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.06cbe1fe.chunk.js"
+  ]
+}
